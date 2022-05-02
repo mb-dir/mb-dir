@@ -1,12 +1,13 @@
 ## About me
 
-- 👋 Hi, I am Michał Bysiewicz. I studying computer science and econometrics at University of Rzeszów, I would like to be a web developer.
+- 👋 Hi, I am Michał Bysiewicz. I am studying computer science and econometrics at University of Rzeszów, I would like to be a web developer.
 - 👀 I’m interested in technologies for creating web applications(mainly vanilla JS and React), and everything what is related with this e.g. GIT or webpack, 
-I also run a [blog](https://myblog96921.gatsbyjs.io/blog). When it comes to non-technological aspects I am a big volleyball fan, sometimes I like to read a book or 
+I also run a [blog](https://myblog96921.gatsbyjs.io/blog). When it comes to non-technological aspects I am a big volleyball fan, sometimes I like reading books or 
 watch satirical programs like [zcdcp](https://www.youtube.com/watch?v=fiHRBD17HLU&list=PL3A1D85A1E3DD4929).
 - 🌱 I’m currently learning:
   - React
   - Algorithms and data structures(main subject at university)
+  - Java(also at university)
   - English;)
 - 💞️ I’m looking to collaborate with anyone who gives me the opportunity to gain experience
 - 📫 If you want to contact me, you can send an email to **michal.bysiewicz.kontakt@gmail.com**
