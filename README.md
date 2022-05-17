@@ -6,6 +6,8 @@ I also run a [blog](https://myblog96921.gatsbyjs.io/blog). When it comes to non-
 watch satirical programs like [zcdcp](https://www.youtube.com/watch?v=fiHRBD17HLU&list=PL3A1D85A1E3DD4929).
 - 🌱 I’m currently learning:
   - React
+    - [Done](https://scrimba.com/learn/learnreact)
+    - [In progress](https://scrimba.com/learn/react)
   - Algorithms and data structures(main subject at university)
   - Java(also at university)
   - English;)
